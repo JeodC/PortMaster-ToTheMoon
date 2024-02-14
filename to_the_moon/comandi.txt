@@ -1,0 +1,4 @@
+1.png|./base.txt
+2.png|./minisode1.txt
+3.png|./minisode2.txt
+
